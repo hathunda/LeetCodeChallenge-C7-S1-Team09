@@ -1,14 +1,13 @@
 # Team 9 Leet Code Challenge
 
-We worked together as a team to solve the assigned LeetCode problems. We combined efforts and diverse perspectives which led to the solutions below. This GitHub Repository will host our solutions
-and explanations of how each solution was reached.
+We worked together as a team to solve the assigned LeetCode problems. We combined efforts and diverse perspectives which led to the solutions below. This GitHub Repository will host our solutions and explanations of how each solution was reached.
 
 <p align="center">
 <img src="https://leetcode.com/static/images/LeetCode_Sharing.png"
   alt="LeetCode Logo">
 </p>
 
-## The LeetCode Problems
+## The LeetCode Questions
 
 * [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 * [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
@@ -101,4 +100,4 @@ and explanations of how each solution was reached.
   <img src="images/image5.jpg" alt="Flow Chart 5" width="738">
 </p>
 
-## Thank You !
+##
